@@ -24,7 +24,7 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
     
 ## Deploy With Vercel
 
-![Demp](https://gpt-aichat.site)
+https://gpt-aichat.site
 
 ## License
 
